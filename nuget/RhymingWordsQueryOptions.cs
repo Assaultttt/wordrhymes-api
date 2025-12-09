@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using Newtonsoft.Json;
+
+namespace APIVerve.API.RhymingWords
+{
+    /// <summary>
+    /// Query options for the Rhyming Words API
+    /// </summary>
+    public class RhymingWordsQueryOptions
+    {
+        /// <summary>
+        /// The word for which you want to get rhyming words
+        /// Example: blue
+        /// </summary>
+        [JsonProperty("word")]
+        public string Word { get; set; }
+    }
+}
